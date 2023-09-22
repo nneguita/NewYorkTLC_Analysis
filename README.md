@@ -37,7 +37,7 @@ The analysis delves into several aspects of the dataset, including:
 - **Time-Based Analysis:** Breaks down trips based on pickup and drop-off times to identify peak hours and patterns related to time.
 - **Location Analysis:** Utilizes the provided taxi zone lookup data to map location IDs to Boroughs, offering insights into the popular locations for taxi rides in the city.
 
-### [Link to the Analysis Notebook](https://github.com/nneguita/NewYorkTLC_Analysis/blob/main/NYC%20TLC%20Trip%20Record%20Analysis.ipynb)
+### [Link to the Analysis Notebook](https://github.com/nneguita/NewYorkTLC_Analysis/blob/master/NYC%20TLC%20Trip%20Record%20Analysis.ipynb)
 
 ## Tools and Technologies <a name="tools-and-technologies"></a>
 - **Python:** The primary programming language used for performing data analysis.
