@@ -44,7 +44,7 @@ The analysis delves into several aspects of the dataset, including:
 - **Jupyter Notebook:** An open-source web application that allows the creation and sharing of documents that contain live code, equations, visualizations, and narrative text.
 - **Pandas:** A fast, powerful, flexible, and easy-to-use open-source data analysis and manipulation library for Python.
 - **Matplotlib & Seaborn:** Visualization libraries in Python for creating static, animated, and interactive visualizations.
-- - **Tableau:** Visualization application for creating interactive visualization consisting of story and dashboard.
+- **Tableau:** Visualization application for creating interactive visualization consisting of story and dashboard.
 
 ## Conclusion and Recommendations <a name="conclusion-and-recommendations"></a>
 The analysis provides a comprehensive overview of taxi and for-hire vehicle services in New York City, enabling stakeholders to make informed decisions and implement strategies to optimize service delivery, improve user satisfaction, and enhance operational efficiency.
