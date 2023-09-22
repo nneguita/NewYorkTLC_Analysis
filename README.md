@@ -54,6 +54,6 @@ The analysis provides a comprehensive overview of taxi and for-hire vehicle serv
 - **Strategic Planning:** The analysis of trip durations, distances, and passenger counts can aid in strategic planning and policy formulation to address the varying needs and preferences of passengers effectively.
 
 ## Additional Resources <a name="additional-resources"></a>
-- **[NYC TLC Trip Record Analysis Notebook](https://github.com/nneguita/NewYorkTLC_Analysis/blob/main/NYC%20TLC%20Trip%20Record%20Analysis.ipynb)**
-- **[NYC TLC Trip Record Dataset](https://github.com/nneguita/NewYorkTLC_Analysis/blob/main/NYC%20TLC%20Trip%20Record.csv)**
-- **[Taxi Zone Lookup Dataset](https://github.com/nneguita/NewYorkTLC_Analysis/blob/main/taxi%2B_zone_lookup.csv)**
+- **[NYC TLC Trip Record Analysis Notebook](https://github.com/nneguita/NewYorkTLC_Analysis/blob/master/NYC%20TLC%20Trip%20Record%20Analysis.ipynb)**
+- **[NYC TLC Trip Record Dataset](https://github.com/nneguita/NewYorkTLC_Analysis/blob/master/Dataset/NYC%20TLC%20Trip%20Record.csv)**
+- **[Taxi Zone Lookup Dataset](https://github.com/nneguita/NewYorkTLC_Analysis/blob/master/Dataset/taxi%2B_zone_lookup.csv)**
